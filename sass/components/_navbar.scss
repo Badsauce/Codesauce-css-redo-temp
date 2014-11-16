@@ -1,0 +1,25 @@
+.navbar {
+  background: rgb(52, 52, 52);
+
+  max-height: 90px;
+  margin-bottom: 90px;
+
+
+  ul, a {
+    display:inline-block;
+  }
+
+  .logo-link{
+    width: 47%;
+  }
+
+  .nav-list{
+    width: 25%;
+    vertical-align: top;
+  }
+
+  img {
+    width: 100%;
+    max-width: 212px;
+  }
+}
